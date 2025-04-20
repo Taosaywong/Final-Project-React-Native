@@ -25,7 +25,7 @@ The **Smart Shopping System** is an innovative mobile shopping platform designed
 
 - **Frontend**: React Native  
 - **Backend**: Django (Python)  
-- **AR Module**: Kotlin + ARCore (Android Native)  
+- **AR Module**: Python + OpenCV (In Progress)
 - **Database**: [PostgreSQL]  
 - **Others**: [Paypal Payment, React-Native-Chart-Kit]
 
@@ -36,6 +36,8 @@ The **Smart Shopping System** is an innovative mobile shopping platform designed
 ### 1. Front End (React Native) Installation
 
 cd Final-Project-React-Native
+
+npm install
 
 npx expo start
 
