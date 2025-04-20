@@ -13,7 +13,7 @@ The **Smart Shopping System** is an innovative mobile shopping platform designed
 - 💳 **Checkout and Payment**  
   Smooth cart experience and payment integration for fast checkout.
 
-- 📍 **AR Indoor Navigation** (Developed in Kotlin)  
+- 📍 **AR Indoor Navigation** (Developed in Python)  
   Guides customers to product locations in-store using ARCore-powered navigation.
 
 - 📊 **Summary Sales Report**  
